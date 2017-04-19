@@ -1,13 +1,14 @@
 {
-  "name": "boilerplate",
+  "name": "ReactWeather",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Weather App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Karl Fletcher",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.16.1",
     "express": "^4.15.2",
